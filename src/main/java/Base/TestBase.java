@@ -81,12 +81,11 @@ public class TestBase {
             String imagePath = test.addScreenCapture(path);
             test.log(LogStatus.FAIL, imagePath);
 
-            test.log(LogStatus.INFO, "Test Successfully Ended");
+        }
+        test.log(LogStatus.INFO, "Test Successfully Ended");
             report.endTest(test);
             report.flush();
             driver.quit();
-
-        }
 
     }
 
