@@ -40,8 +40,8 @@ public class TestBase {
 
     }
 
-    public static void initialization(String browserName){
-        browserName = prop.getProperty("browser");
+    public static void initialization(){
+        String browserName = prop.getProperty("browser");
 
         if(browserName.equalsIgnoreCase("chrome")){
             System.setProperty("webdriver.chrome.driver", "/Users/mgodfrey/Documents/Drivers/chromedriver");
