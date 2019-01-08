@@ -19,9 +19,7 @@ public class ExcelReader {
 
     public  ExcelReader(){
 
-
         try{
-
             excelFile = new FileInputStream(path);
             excelWBook = new XSSFWorkbook(excelFile);
             excelSheet = excelWBook.getSheet(sheetName);
