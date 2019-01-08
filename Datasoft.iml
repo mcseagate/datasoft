@@ -43,5 +43,17 @@
     <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.8.3" level="project" />
     <orderEntry type="library" name="Maven: org.xerial:sqlite-jdbc:3.23.1" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml:3.17" level="project" />
+    <orderEntry type="library" name="Maven: com.github.virtuald:curvesapi:1.04" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml-schemas:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlbeans:xmlbeans:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-scratchpad:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-excelant:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ant:ant:1.8.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ant:ant-launcher:1.8.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-examples:4.0.0" level="project" />
   </component>
 </module>

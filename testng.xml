@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/mgodfrey/IdeaProjects/Datasoft"><classes><class name="Testcases.PrayerRequest"><methods><include name="newRequrst"/><include name="verifyTitle"/></methods></class></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sanity">
+    <test verbose="2" preserve-order="true" name="/Users/mgodfrey/IdeaProjects/Datasoft">
+        <classes>
+            <class name="Testcases.PrayerRequest">
+                <methods>
+                    <include name="newRequrst"/>
+                    <include name="verifyTitle"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
